@@ -18,9 +18,9 @@ int main()
    while (1) {
         if (flag) {
             printf("Flag is set!\n");
-            flag = 0; // Reset the flag
+            flag = 0; 
         }
-        // Other code and logic inside the while loop
+        
     }
 
     return 0;
